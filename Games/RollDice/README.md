@@ -4,7 +4,7 @@ A simple Java console-based game that simulates rolling a dice. The player conti
 
 --- 
 
-## Features:
+## 🎮 How to Play
 
 - Enter `9` to roll the dice.
 
