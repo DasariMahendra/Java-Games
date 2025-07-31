@@ -4,12 +4,12 @@ A simple Java console-based game that simulates rolling a dice. The player conti
 
 ## Features:
 
-Enter `9` to roll the dice.
+- Enter `9` to roll the dice.
 
-If the dice value is between 2 and 6, it is added to your score.
+- If the dice value is between 2 and 6, it is added to your score.
 
-If the dice value is `1`, the game ends and your final score is displayed.
+- If the dice value is `1`, the game ends and your final score is displayed.
 
-If any input other than `9` is entered, the game will prompt again.
+- If any input other than `9` is entered, the game will prompt again.
 
 
