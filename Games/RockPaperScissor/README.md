@@ -5,13 +5,13 @@ A simple Java-based console application that lets you play **Rock, Paper, Scisso
 
 ## 🎮 How to Play
 
-Run the program.
+- Run the program.
    
-Enter your move: `Rock`, `Paper`, or `Scissors`.
+- Enter your move: `Rock`, `Paper`, or `Scissors`.
 
-The computer randomly picks its move.
+- The computer randomly picks its move.
 
-The winner is determined based on standard game rules:
+- The winner is determined based on standard game rules:
    - Rock beats Scissors
    - Scissors beats Paper
    - Paper beats Rock
