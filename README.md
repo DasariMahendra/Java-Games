@@ -6,7 +6,7 @@ A collection of simple Java console-based mini games developed for beginners to 
 
 ## 📦 Games Included
 
-### 1. 🎲 Roll Dice Game (`com.rolldice.Dice`)
+### 1. 🎲 Roll Dice Game (`DiceRoll`)
 - Roll the dice by entering `9`.
 - If the dice value is between `2` and `6`, it's added to your score.
 - If you roll a `1`, the game ends.
