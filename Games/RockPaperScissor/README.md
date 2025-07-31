@@ -2,6 +2,7 @@
 
 A simple Java-based console application that lets you play **Rock, Paper, Scissors** against the computer.
 
+--- 
 
 ## 🎮 How to Play
 
