@@ -2,6 +2,8 @@
 
 A simple Java console-based game that simulates rolling a dice. The player continues to roll the dice by entering `9`, and the score accumulates with each roll **except when a 1 is rolled**, which ends the game.
 
+--- 
+
 ## Features:
 
 - Enter `9` to roll the dice.
